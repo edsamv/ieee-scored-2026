@@ -84,7 +84,7 @@ export default function RegistrationPage() {
         <div className="bg-muted/50 border-b border-border py-4">
           <div className="mx-auto max-w-7xl px-4 lg:px-8 text-center">
             <p className="text-muted-foreground">
-              Early bird registration deadline: <span className="font-semibold text-foreground">31st October 2026</span>
+              Early bird registration deadline: <span className="font-semibold text-foreground">TBA</span>
             </p>
           </div>
         </div>

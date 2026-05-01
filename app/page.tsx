@@ -26,7 +26,7 @@ export default function HomePage() {
                 24th IEEE Student Conference on Research and Development
               </p>
               <p className="text-white/80">
-                25-26 November 2026 | Multimedia University, Cyberjaya, Malaysia
+                TBA | Multimedia University, Cyberjaya, Malaysia
               </p>
             </div>
           </div>

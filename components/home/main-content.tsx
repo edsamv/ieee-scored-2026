@@ -33,7 +33,7 @@ export function MainContent() {
           
           <p>
             2026 IEEE 24th Student Conference on Research and Development (SCOReD) will be held at{" "}
-            <strong>Multimedia University</strong>, Cyberjaya, Malaysia from 25-26 November 2026. This flagship
+            <strong>Multimedia University</strong>, Cyberjaya, Malaysia. The conference date is TBA. This flagship
             conference is organized by <strong>Multimedia University IEEE Student Branch (MMU)</strong> in collaboration with{" "}
             <strong>IEEE Malaysia Section</strong>. The conference provides a platform for local and international
             researchers, engineers and scientists from academia and industry to present and discuss the

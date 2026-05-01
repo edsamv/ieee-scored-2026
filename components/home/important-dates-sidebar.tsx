@@ -2,34 +2,33 @@ export function ImportantDatesSidebar() {
   const dates = [
     {
       label: "Call for Papers:",
-      dates: [{ date: "1st July 2026", passed: false }],
+      dates: [{ date: "TBA", passed: false }],
     },
     {
       label: "Submission of Full Paper:",
       dates: [
-        { date: "23rd September 2026", passed: false, strikethrough: false },
-        { date: "30th September 2026", passed: false, strikethrough: false },
+        { date: "TBA", passed: false, strikethrough: false },
       ],
     },
     {
       label: "Notification of Acceptance:",
-      dates: [{ date: "Between 30th September 2026 and 7th October 2026", passed: false }],
+      dates: [{ date: "TBA", passed: false }],
     },
     {
       label: "Registration Deadline (Early Bird):",
-      dates: [{ date: "31st October 2026", passed: false }],
+      dates: [{ date: "TBA", passed: false }],
     },
     {
       label: "Registration Deadline (Normal):",
-      dates: [{ date: "10th November 2026", passed: false }],
+      dates: [{ date: "TBA", passed: false }],
     },
     {
       label: "Camera-Ready Submission:",
-      dates: [{ date: "15th November 2026", passed: false }],
+      dates: [{ date: "TBA", passed: false }],
     },
     {
       label: "Conference Date:",
-      dates: [{ date: "25th - 26th November 2026", passed: false, highlight: true }],
+      dates: [{ date: "TBA", passed: false, highlight: true }],
     },
   ]
 

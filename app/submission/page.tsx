@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 const preConferenceItems = [
-  "Presenters are required to prepare a maximum of 10 minutes of presentation slides in PowerPoint Format (ppt) and MUST be uploaded through EDAS (deadline 10th November 2025).",
+  "Presenters are required to prepare a maximum of 10 minutes of presentation slides in PowerPoint Format (ppt) and MUST be uploaded through EDAS (deadline TBA).",
   "Please use SCOReD2025 PowerPoint Slide Template.",
   "If you are unable to download this template, please try a different browser.",
   "Please name your presentation file with the PAPER ID (from EDAS) followed by the NAME OF PRESENTER (Example: 12345678 JOHN DOE).",
@@ -74,7 +74,7 @@ export default function SubmissionPage() {
               <div className="h-10 w-10 bg-[#2d4a47] text-white flex items-center justify-center">
                 <Calendar className="h-5 w-5" />
               </div>
-              <h2 className="text-2xl font-bold text-[#1e3a5f]">Conference Day (25-26 November 2025)</h2>
+              <h2 className="text-2xl font-bold text-[#1e3a5f]">Conference Day (TBA)</h2>
             </div>
 
             <div className="bg-card border border-border p-6">

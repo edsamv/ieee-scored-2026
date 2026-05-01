@@ -49,7 +49,7 @@ export default function SchedulePage() {
         <div className="bg-[#2d4a47] text-white py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <h1 className="text-3xl md:text-4xl font-bold">Conference Program</h1>
-            <p className="mt-2 text-white/80">25-26 November 2026 | Multimedia University, Cyberjaya</p>
+            <p className="mt-2 text-white/80">TBA | Multimedia University, Cyberjaya</p>
           </div>
         </div>
 
@@ -68,7 +68,7 @@ export default function SchedulePage() {
         <div className="mx-auto max-w-5xl px-4 py-12 lg:px-8">
           {/* Day 1 */}
           <section className="mb-12">
-            <h2 className="text-2xl font-bold text-[#1e3a5f] mb-2">Day 1 - 25th November 2026</h2>
+            <h2 className="text-2xl font-bold text-[#1e3a5f] mb-2">Day 1 - TBA</h2>
             <p className="text-muted-foreground mb-6">Opening Day</p>
 
             <div className="overflow-hidden border border-border">
@@ -123,7 +123,7 @@ export default function SchedulePage() {
 
           {/* Day 2 */}
           <section className="mb-12">
-            <h2 className="text-2xl font-bold text-[#1e3a5f] mb-2">Day 2 - 26th November 2026</h2>
+            <h2 className="text-2xl font-bold text-[#1e3a5f] mb-2">Day 2 - TBA</h2>
             <p className="text-muted-foreground mb-6">Closing Day</p>
 
             <div className="overflow-hidden border border-border">
