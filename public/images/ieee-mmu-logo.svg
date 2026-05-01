@@ -1,0 +1,29 @@
+<svg width="711" height="214" viewBox="0 0 711 214" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">IEEE MMU Student Branch</title>
+  <desc id="desc">IEEE MMU Student Branch logo in dark blue.</desc>
+  <rect width="711" height="214" fill="white"/>
+
+  <g fill="#073F78">
+    <rect x="4" y="18" width="6" height="91" rx="2"/>
+    <rect x="18" y="18" width="6" height="91" rx="2"/>
+    <rect x="32" y="18" width="6" height="91" rx="2"/>
+    <rect x="46" y="18" width="6" height="91" rx="2"/>
+    <rect x="146" y="110" width="6" height="91" rx="2"/>
+    <rect x="160" y="110" width="6" height="91" rx="2"/>
+    <rect x="174" y="110" width="6" height="91" rx="2"/>
+    <rect x="188" y="110" width="6" height="91" rx="2"/>
+    <path d="M0 107C0 157 32 188 77 188C112 188 139 165 146 130H109C104 144 93 151 78 151C54 151 38 134 38 107V18H0V107Z"/>
+    <path d="M91 18C146 18 180 52 180 107C180 159 147 188 101 188V151C126 151 142 135 142 107C142 75 123 55 91 55V18Z"/>
+  </g>
+
+  <g transform="translate(59 74)">
+    <rect x="0" y="37" width="52" height="52" transform="rotate(-45 0 37)" fill="white" stroke="#073F78" stroke-width="6"/>
+    <circle cx="37" cy="37" r="20" fill="none" stroke="#073F78" stroke-width="5"/>
+    <path d="M37 15V58" stroke="#073F78" stroke-width="5" stroke-linecap="round"/>
+    <path d="M20 39C26 31 31 29 37 37C43 45 49 43 54 35" stroke="#073F78" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M29 60H45" stroke="#073F78" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <text x="220" y="166" fill="#073F78" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="196" font-weight="900" letter-spacing="-7">IEEE</text>
+  <text x="226" y="205" fill="#073F78" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="35" font-weight="900" letter-spacing="0">MMU STUDENT BRANCH</text>
+</svg>
